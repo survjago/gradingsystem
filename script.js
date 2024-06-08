@@ -9,8 +9,9 @@ function gradeChecker() {
 
     console.log(result.style);
     result.style.color = 'green'
-        console.log('A');
-        console.log(score);
+        // console.log('A');
+        // console.log(score);
+        
 
 
 
